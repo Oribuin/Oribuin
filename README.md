@@ -2,7 +2,8 @@
 ### My Info
 
 Hello, I'm Ori, I'm a new Java/Kotlin Developer that creates plugins & discord bots for personal & public usage.
-I plan to eventually learn Java, Kotlin, SQL, JavaScript, PHP, HTML, CSS, Ruby, TypeScript, C# and C++ to branch out into creating projects. 
+
+I plan to eventually know Java, Kotlin, SQL, JavaScript, PHP, HTML, CSS, Ruby, TypeScript, C# and C++ to branch out into creating projects. 
 
 ### My Website URLs
 * 🌟[Spigot](https://www.spigotmc.org/members/oribuin.556774/)
