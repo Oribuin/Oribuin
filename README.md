@@ -1,1 +1,1 @@
-![](https://img.oribuin.xyz/rat.jpg)
+![](https://img.oribuin.xyz/bot-images/bonk.jpg)
