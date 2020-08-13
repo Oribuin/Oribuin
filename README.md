@@ -1,1 +1,1 @@
-![](https://img.oribuin.xyz/stickbug.mp4)
+![](https://img.oribuin.xyz/rat.jpg)
