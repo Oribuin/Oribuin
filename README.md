@@ -1,1 +1,34 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=oribuin&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oribuin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Oribuin
+
+I'm Ori, An 18-Year-old Minecraft Spigot Developer who primarily works on Spigot Plugins such
+as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https://github.com/Oribuin/EternalCrates/)
+and [EternalParkour](https://github.com/Oribuin/EternalParkour).
+
+- Java / Kotlin Developer
+- Working for @[Rosewood-Development](https://github.com/Rosewood-Development]
+
+<h4>Languages I'm Familiar With</h6>
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-007396?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=css3&logoColor=white)
+
+<h4>Tools I use</h4>
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-007396?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=white)
+
+<h4>My Stats</h4>
+![Oribuin's Overview](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Oribuin's Languages](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<h4>Languages I'm Learning</h4>
+![C#](https://img.shields.io/badge/-C%23-007396?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-007396?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-007396?style=for-the-badge&logo=scala&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-007396?style=for-the-badge&logo=ruby&logoColor=white)
