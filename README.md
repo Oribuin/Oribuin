@@ -5,9 +5,9 @@ as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https
 and [EternalParkour](https://github.com/Oribuin/EternalParkour).
 
 - Java / Kotlin Developer
-- Working for @[Rosewood-Development](https://github.com/Rosewood-Development]
+- Working for [Rosewood-Development](https://github.com/Rosewood-Development/)
 
-<h4>Languages I'm Familiar With</h6>
+### Languages I'm Familiar With
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,16 +15,16 @@ and [EternalParkour](https://github.com/Oribuin/EternalParkour).
 ![HTML](https://img.shields.io/badge/-HTML-007396?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=css3&logoColor=white)
 
-<h4>Tools I use</h4>
+### Tools I use
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007396?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=white)
 
-<h4>My Stats</h4>
+### My Stats
 ![Oribuin's Overview](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Oribuin's Languages](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<h4>Languages I'm Learning</h4>
+### Languages I'm Learning
 ![C#](https://img.shields.io/badge/-C%23-007396?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
