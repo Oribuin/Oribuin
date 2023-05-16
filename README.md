@@ -6,6 +6,7 @@ and [EternalParkour](https://github.com/Oribuin/EternalParkour).
 
 - Java / Kotlin Developer
 - Working for [Rosewood-Development](https://github.com/Rosewood-Development/)
+- Working for [CraftYourTown](https://github.com/CraftYourTown/)
 
 ### Languages I'm Familiar With
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -25,10 +26,11 @@ and [EternalParkour](https://github.com/Oribuin/EternalParkour).
 ![Oribuin's Languages](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Languages I'm Learning
+![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-007396?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- ![Typescript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007396?style=for-the-badge&logo=go&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-007396?style=for-the-badge&logo=scala&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-007396?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-007396?style=for-the-badge&logo=ruby&logoColor=white) -->
