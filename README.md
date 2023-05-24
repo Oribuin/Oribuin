@@ -7,6 +7,10 @@ as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https
 - Working for [Rosewood-Development](https://github.com/Rosewood-Development/)
 - Working for [CraftYourTown](https://github.com/CraftYourTown/)
 
+### My Stats
+![Oribuin's Overview](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Oribuin's Languages](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ### Languages I'm Familiar With
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -19,10 +23,6 @@ as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007396?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-007396?style=for-the-badge&logo=github&logoColor=white)
-
-### My Stats
-![Oribuin's Overview](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Oribuin's Languages](https://raw.githubusercontent.com/Oribuin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Languages I'm Learning
 ![PHP](https://img.shields.io/badge/-PHP-007396?style=for-the-badge&logo=php&logoColor=white)
