@@ -16,9 +16,6 @@ as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https
 ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-007396?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-007396?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=css3&logoColor=white)
-
 ### Tools I use
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007396?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007396?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,7 +26,8 @@ as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https
 ![Python](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-007396?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![Typescript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-007396?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=css3&logoColor=white)<!-- ![Typescript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007396?style=for-the-badge&logo=go&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-007396?style=for-the-badge&logo=scala&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-007396?style=for-the-badge&logo=ruby&logoColor=white) -->
