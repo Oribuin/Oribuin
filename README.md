@@ -1,7 +1,7 @@
 ## Oribuin
 
 I'm Ori, An 18-Year-old Minecraft Spigot Developer who primarily works on Spigot Plugins such
-as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https://github.com/Oribuin/EternalCrates/), [EternalParkour](https://github.com/Oribuin/EternalParkour) and [EternalMines](https://github.com/Oribuin/EternalMines).
+as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https://github.com/Oribuin/EternalCrates/), [EternalChestShop](https://github.com/Oribuin/EternalChestShop) and [EternalMines](https://github.com/Oribuin/EternalMines).
 
 - Java / Kotlin Developer
 - Working for [Rosewood-Development](https://github.com/Rosewood-Development/)
