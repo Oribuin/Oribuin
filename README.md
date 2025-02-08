@@ -1,5 +1,5 @@
 I'm Ori, A 20-Year-old Java Developer who primarily works on Spigot Plugins such
-as [EternalTags](https://github.com/Oribuin/EternalTags/), [EternalCrates](https://github.com/Oribuin/EternalCrates/), [EternalChestShop](https://github.com/Oribuin/EternalChestShop) and [EternalMines](https://github.com/Oribuin/EternalMines).
+as [Fishing](https://github.com/Oribuin/Fishing/), [Essentials](https://github.com/Oribuin/Essentials/), [EternalClaims](https://github.com/Oribuin/EternalClaims) and [Vouchers](https://github.com/Oribuin/Vouchers).
 
 - Java / Kotlin Developer
 - Working for [Rosewood-Development](https://github.com/Rosewood-Development/)
